@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_74e281a31cb9025981526221e1da8aaea8eb4239/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_f0e7743042b9b244a978932c05ab7761bd45b9bc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_3685f48ced866243dcba67aa3b2f10a476acb36d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_b511409413aec6dcf4d6a26c9a42a564d8526687/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_4d26eba7e749766dc045a8e039eceb9f3b18beb8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_ed1f9519ced372075fe84f3ae1beaf00e033746e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a5b17bf2525f6695568b7d045aa81be34a53722c">
+        <dex dex="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6ec8a2796bcbe2eedc0501bc6cb4b24d0bd2cc0a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_80d7660ebc936e22169864b090173221685e783f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_12cfce18951b3d03a47e742e6f0d05f58abbc400/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_a265bac08e679a3894f7f3cf82cd7097db16d065/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anthony/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_e74488fef630eea3d73328d6cd71a309ddee8800/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_a4257838f38ab3e3c944b9c72c215980d45ff058/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_b78e4c7bfa2baa28ffebbef3cd4275567aa41951/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_010797ad12fd741c12ecb38f74a18a8e9eaa9e97/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_30c15f9e8dceb18f3de2b0e032fd4f87501003cd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_a7fd9500072610031f85661f471c862520a14ac7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a36a1b42c84737ee60a846f4235bb96c5868308f">
+        <dex dex="/Users/Anthony/Documents/CODES/AndroidStudio/Lab2_Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a4a61b2900e8c8c99459c791dcbf61682582a062/classes.dex" />
+    </item>
+
+</items>
